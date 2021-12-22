@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tanbui.github.io/csb-qrluz/static/css/main.4f9b3e78.chunk.css",
+    "main.js": "https://tanbui.github.io/csb-qrluz/static/js/main.3c33884d.chunk.js",
+    "main.js.map": "https://tanbui.github.io/csb-qrluz/static/js/main.3c33884d.chunk.js.map",
+    "runtime-main.js": "https://tanbui.github.io/csb-qrluz/static/js/runtime-main.bf743aac.js",
+    "runtime-main.js.map": "https://tanbui.github.io/csb-qrluz/static/js/runtime-main.bf743aac.js.map",
+    "static/js/2.2ff29d9c.chunk.js": "https://tanbui.github.io/csb-qrluz/static/js/2.2ff29d9c.chunk.js",
+    "static/js/2.2ff29d9c.chunk.js.map": "https://tanbui.github.io/csb-qrluz/static/js/2.2ff29d9c.chunk.js.map",
+    "index.html": "https://tanbui.github.io/csb-qrluz/index.html",
+    "static/css/main.4f9b3e78.chunk.css.map": "https://tanbui.github.io/csb-qrluz/static/css/main.4f9b3e78.chunk.css.map",
+    "static/js/2.2ff29d9c.chunk.js.LICENSE.txt": "https://tanbui.github.io/csb-qrluz/static/js/2.2ff29d9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf743aac.js",
+    "static/js/2.2ff29d9c.chunk.js",
+    "static/css/main.4f9b3e78.chunk.css",
+    "static/js/main.3c33884d.chunk.js"
+  ]
+}
